@@ -189,7 +189,7 @@ Fees are set per model on chain. Class C calls use the long-window model variant
 | Business email seat, no AI | $7 to $14 |
 | Automation platform, no judgement | $20 to $100 |
 | Hosted AI agent products | $50 to $500 |
-| ChatGPT or Claude subscription, no wallet, no inbox, no autonomy | $20 |
+| Consumer AI chat subscription, no wallet, no inbox, no autonomy | $20 |
 | Part-time human assistant | $400 to $800 |
 
 **Agent plans.** Sold by the Foundation at agents.us.org. Plan prices are a product decision and are stated here so voters see where the money goes; they are not a DAO parameter. Every plan splits into an inference allowance, prepaid into the agent's job balance and paid to workers per call under the protocol fee, and a platform fee for the gateway and mail operator (3.15).
