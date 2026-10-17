@@ -4,7 +4,7 @@ Proposals to the Lightchain AI DAO, one folder each, with the discussion thread 
 
 | Proposal | Status | Discussion |
 | --- | --- | --- |
-| [Compute grants to onboard independent AI power and decentralise the network](proposals/2026-10-compute-grants/) | Community discussion, October 2026 | see the folder README |
+| [Compute grants to onboard independent AI power and decentralise the network](proposals/2026-10-compute-grants/) | Community discussion, opened 17 October 2026 | [Discussion 1](https://github.com/lightchain-protocol/lightchain-dao-proposals/discussions/1) |
 
 ## How a proposal moves
 

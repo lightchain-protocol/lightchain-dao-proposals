@@ -6,4 +6,4 @@ Draft v4.1, October 2026. A twelve-month grant programme, funded by the Lightcha
 - [Full proposal v4.1 (PDF)](Lightchain-Compute-Grants-Proposal-v4.1.pdf) and [as Markdown](Lightchain-Operator-Viability-Proposal-v4.1.md)
 - Eligibility script, probes and the public payment record: [lightchain-operator-program](https://github.com/lightchain-protocol/lightchain-operator-program)
 
-Discussion: open for seven days from posting in this repository's Discussions, then to a Governor vote.
+Discussion: https://github.com/lightchain-protocol/lightchain-dao-proposals/discussions/1, open for seven days from 17 October 2026, then to a Governor vote.
